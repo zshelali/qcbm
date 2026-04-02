@@ -1,0 +1,63 @@
+# =========================
+# Operating System Files
+# =========================
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+
+# =========================
+# Python & Environments
+# =========================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments 
+.env
+.venv
+env/
+venv/
+ENV/
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+ipython_config.py
+
+# =========================
+# Testing & Tooling
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# =========================
+# IDEs & Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Project Specifics
+# =========================
+outputs/
+data/
+*.log
