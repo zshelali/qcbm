@@ -4,6 +4,7 @@ uv
 # --- Core Framework & Math ---
 pennylane
 numpy
+statsmodels
 
 # --- Hardware Plugins & SDKs ---
 qiskit
