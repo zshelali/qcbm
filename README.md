@@ -1,6 +1,6 @@
 # Setting up the project for development
 
-1. Install Python 3.12.13 (Make sure to check "Add Python to PATH" during installation if you are on Windows)
+1. Install Python 3.12.10 (Make sure to check "Add Python to PATH" during installation if you are on Windows)
 
 2. Clone the project on your machine and navigate into it:
 
